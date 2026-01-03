@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 I'm Yee Mon Soe
 
 <!--
 **yeemsoe/yeemsoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Yee Mon Soe
+
+## Data Analyst for hire!
 
 **Data Analytics | Business Intelligence | Power BI | SQL | Python**
 
-I'm a data analytics professional transitioning from a 4-year background in Graphic Design. My experience strengthened my attention to detail, structured thinking, and stakeholder communication — skills I now apply to data analysis and reporting.
-
-I build analytics projects that turn raw data into actionable business insights, with a focus on sales performance, product analysis, and operational reporting.
+Data Analyst with an analytics–creative hybrid background, blending business analysis, performance reporting, and data visualization. Brings 4 years of graphic design experience and proficiency in SQL, Excel, Power BI, and Python to deliver clear, actionable insights.
 
 ---
 
@@ -29,8 +28,8 @@ I build analytics projects that turn raw data into actionable business insights,
 - **Data Analysis & BI:** SQL, Python, Excel, Power BI  
 - **Data Modeling & Reporting:** DAX, KPI development, dashboard design  
 - **Data Preparation:** Data cleaning, validation, transformation  
-- **Business Skills:** Requirements analysis, insight storytelling, stakeholder communication  
-
+- **Professional Attributes**:
+ Intellectual curiosity, learning agility, strong ownership, attention to detail, stakeholder communication
 ---
 
 ## Featured Projects
