@@ -66,7 +66,7 @@
 <br>
 
 <!-- CONNECT -->
-<h1   align="center">Connect </h1>
+<h2   align="center">Connect </h2>
 
 
 
