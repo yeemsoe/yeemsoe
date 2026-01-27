@@ -11,7 +11,7 @@
 </p>
 <br>
 <p align="center">
-    <a href="https://docs.google.com/document/d/1QSRWeg4WJ9gFzotQ7fNSAO1lCfJV5XA7/edit?usp=drive_link&ouid=104710263933368542154&rtpof=true&sd=true" target="_blank" download="YeeMonSoe_Data_Analyst_Resume">
+    <a href="https://docs.google.com/document/d/1lj-EkF_SXssVbD0em7AIbDFOdKxSeTRk/edit?usp=drive_link&ouid=104710263933368542154&rtpof=true&sd=true" download="YeeMonSoe_Data_Analyst_Resume">
         <img width="230" height="49" alt="download" src="https://github.com/user-attachments/assets/01179bb8-1c15-45d5-9b05-c82b0dec5a47" />
     </a>
 
