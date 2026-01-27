@@ -1,16 +1,13 @@
 <!-- HERO / HEADER -->
 <h1 align="center">Yee Mon Soe</h1>
-<h3 align="center">Data Analyst | Open to Work</h3>
+<h3 align="center">Junior IT Support & Data Operations | Open to Work</h3>
 
 
 
 <p align="center">
-     Hi! I'm a Data Analyst with an analytics–creative hybrid background, blending business analysis,
+     Entry-level IT Support and Data Operations professional with experience in basic networking, troubleshooting,  <br>
+     and reporting. Skilled in SQL, Excel, and Power BI for data cleaning and dashboard creation. <br> Background in operations support and graphic design.
     <br>
-    performance reporting, and data visualization.    
-    Brings 4 years of graphic design experience 
-    <br>
-    and proficiency in SQL, Excel, Power BI, and Python to deliver clear, actionable insights.
 </p>
 <br>
 <p align="center">
@@ -24,47 +21,7 @@
 
 <!-- WORK DEMOS -->
 
-
-<!-- EXPERTISE -->
-<h1 align="center">Expertise</h1>
-
-<table align="center">
-    <tr>
-        <td align="center" width="20%">
-            <img width="90px" src="https://img.icons8.com/color/96/ms-excel.png" />
-            <h3>Excel</h3>
-        </td>
-        <td align="center" width="20%">
-            <img width="90px" src="https://img.icons8.com/color/96/power-bi.png" />
-            <h3>Power BI</h3>
-        </td>
-        <td align="center" width="20%">
-            <img width="90px" src="https://img.icons8.com/color/96/sql.png" />
-            <h3>SQL</h3>
-        </td>
-    </tr>
-</table>
-
-
-<!-- OTHER SKILLS -->
-<h2 align="center">Other Skills</h2>
-
-<p  align="center">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
-    <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" />
-    <br>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
-    <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop" />
-    <img src="https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator" />
-    <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft" />
-</p>
-
-<br>
-
+<!-- 
 <!-- CONNECT -->
 <h2   align="center">Connect </h2>
 
