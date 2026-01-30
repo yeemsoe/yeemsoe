@@ -1,6 +1,6 @@
 <!-- HERO / HEADER -->
 <h1 align="center">Yee Mon Soe</h1>
-<h3 align="center">Junior IT Support & Data Operations | Open to Work</h3>
+<h3 align="center">Junior Industrial Engineer & Data Operations | Open to Work</h3>
 
 
 
