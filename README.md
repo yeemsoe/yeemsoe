@@ -40,7 +40,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/yee-mon-soe-27a305248/">
+      <a href="https://www.linkedin.com/in/yee-mon-soe-27a305248/](https://www.linkedin.com/in/yee-mon-soe-elin-27a305248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
       </a>
     </td>
