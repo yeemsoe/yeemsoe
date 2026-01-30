@@ -5,8 +5,8 @@
 
 
 <p align="center">
-     Entry-level IT Support and Data Operations professional with experience in basic networking, troubleshooting,  <br>
-     and reporting. Skilled in SQL, Excel, and Power BI for data cleaning and dashboard creation. <br> Background in operations support and graphic design.
+     Junior Industrial Engineer and Data Operations professional with experience in basic networking, troubleshooting,  <br>
+     and reporting. Skilled in SQL, Excel, and Power BI for data cleaning and dashboard creation. <br> Background in design and operations support.
     <br>
 </p>
 <br>
