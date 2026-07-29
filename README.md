@@ -1,12 +1,15 @@
 <!-- HERO / HEADER -->
 <h1 align="center">YEE MON SOE</h1>
-<h3 align="center">Data Analyst | Junior Industrial Engineer & Data Operations | Open to Work</h3>
+<h3 align="center">Electronics Engineer | Data Analytics (SQL • Power BI • Excel) | Operations & Production Coordination | Open to Work</h3>
 
 
 
-<p align="center">
-     Junior Industrial Engineer and Data Operations professional with experience in basic networking, troubleshooting,  <br>
-     and reporting. Skilled in SQL, Excel, and Power BI for data cleaning and dashboard creation. <br> Background in design and operations support.
+<p align="left">
+• Electronics Engineering graduate with 3+ years of professional experience in operations coordination, signage production, and technical documentation, including over two years working in Singapore.
+
+• Skilled in production coordination, technical documentation, AutoCAD, Microsoft Excel, SQL, Power BI, and cross-functional collaboration.
+
+• Analytical, detail-oriented, and adaptable, with hands-on experience in data analysis projects using SQL, Excel, and Power BI. Seeking an entry-level engineering opportunity in semiconductor manufacturing or technical operations where I can contribute and continue developing my engineering skills.
     <br>
 </p>
 
@@ -24,7 +27,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="mailto:yeemonsoe.data@gmail.com">
+      <a href="mailto:yeemonsoe.es01@gmail.com ">
         <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
       </a>
     </td>
